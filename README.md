@@ -25,4 +25,11 @@ harga terjangkau.
 
    A. Flowchart Website Glamourous Gems
 
+   ![Flowchart Diagram](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/83c1631c-5dfd-4ea2-9057-f348ac19f19e)
+
+
    B. Use Case Glamourous Gems
+
+   ![Use case (1)](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/50589000-ab40-464e-be29-12460ad434be)
+
+
