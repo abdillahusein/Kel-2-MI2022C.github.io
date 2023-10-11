@@ -130,6 +130,19 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/7c5b8497-74e4-457a-9e52-45fd9fa98150)
 
+-“ #hamburger-menu “ Adalah selector untuk elemen dengan ID "hamburger-menu".
+  
+-“ display: none; “ Ini mengatur elemen dengan ID "hamburger-menu" menjadi tidak terlihat (display: none).
+  
+-“ .navbar .search-form “ Selector untuk elemen dengan kelas "search-form" dalam elemen navbar.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/e8983d49-3163-487d-9671-fe7424a4e5b4)
+
+-“ .navbar .search-form.active “ Selector untuk elemen "search-form" yang memiliki kelas "active". Ketika elemen ini aktif, transformasi skala vertikalnya akan diubah menjadi 1 (normal), sehingga elemen ini akan terlihat.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
+
+
 
 
 
