@@ -75,7 +75,9 @@ harga terjangkau.
 -“ :root “ Ini adalah pseudo-class CSS yang digunakan untuk mendefinisikan variabel CSS kustom (variabel kustom). Dalam kode ini, mendefinisikan dua variabel kustom: --primary yang memiliki nilai #e96767 (warna merah muda) dan --bg yang memiliki nilai #010101 (warna hitam).
 
 -“ * “ Adalah selector universal yang memilih semua elemen di halaman. Dalam blok ini, digunakan untuk mengatur beberapa properti yang akan berlaku pada semua elemen, termasuk menghapus margin, padding, dan garis luar (outline), serta menghilangkan border dan text-decoration.
+
 -“ html “ merupakan selector untuk elemen <html> dalam halaman HTML. Di sini, untuk mengatur  gulir halus (scroll-behavior: smooth) ketika pengguna menggulir halaman. Dan akan memberikan efek gulir yang lebih mulus ketika pengguna mengklik tautan dalam dokumen.
+
 -“ body “ Adalah  selector untuk elemen <body> dalam halaman HTML. Di sini, untuk mengatur beberapa properti seperti font-family (menggunakan jenis huruf Poppins atau jenis huruf sans-serif), warna latar belakang (background-color), dan warna teks (color).
 
 
