@@ -135,6 +135,11 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
 
+-" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
+
+- “ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
+  
+-“ position: absolute; “ Ini mengatur posisi elemen "shopping-cart" menjadi absolut, yang berarti elemen ini akan ditempatkan secara absolut terhadap elemen yang paling dekat yang memiliki posisi relatif, atau elemen akar (root) jika tidak ada elemen yang memiliki posisi relatif.
 
 -“ .hero::after “ Ini adalah selector CSS yang digunakan untuk memilih pseudo-element "::after" yang terkait dengan elemen yang memiliki kelas "hero". Pseudo-element "::after" adalah elemen virtual yang dapat digunakan untuk menambahkan konten tambahan atau mengubah tampilan elemen utama setelah kontennya.
 
