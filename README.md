@@ -84,13 +84,12 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/e627eb90-5a72-4d0c-9770-63d656a12c7f)
 
--	“ .navbar “ Ini adalah selector untuk elemen dengan kelas "navbar". Dalam blok ini, digunakan mengatur beberapa properti yang berkaitan dengan tampilan navbar.
+-“ .navbar “ Ini adalah selector untuk elemen dengan kelas "navbar". Dalam blok ini, digunakan mengatur beberapa properti yang berkaitan dengan tampilan navbar.
 
   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/66bd72c2-b196-4a29-881e-013983a30552)
-
--	“ .navbar .navbar-logo “ Adalah selector untuk elemen dengan kelas "navbar-logo" yang berada di dalam elemen navbar.
+-“ .navbar .navbar-logo “ Adalah selector untuk elemen dengan kelas "navbar-logo" yang berada di dalam elemen navbar.
   
--	“ .navbar .navbar-logo span ” Selector untuk elemen <span> yang berada di dalam elemen "navbar-logo”.
+-“ .navbar .navbar-logo span ” Selector untuk elemen <span> yang berada di dalam elemen "navbar-logo”.
 
 
 
