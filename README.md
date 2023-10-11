@@ -26,4 +26,3 @@ harga terjangkau.
    A. Flowchart Website Glamourous Gems
 
    B. Use Case Glamourous Gems
-![Screenshot 2023-09-11 142231](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124503163/ed22f8e7-54db-480a-83ab-7ce8c2757bd1)
