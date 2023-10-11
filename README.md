@@ -37,8 +37,11 @@ harga terjangkau.
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
 
    -<meta charset="UTF-8">: Mengatur karakter encoding menjadi UTF-8 untuk mendukung banyak karakter dan simbol.
+   
    -<meta http-equiv="X-UA-Compatible" content="IE=edge">: Mengontrol kompatibilitas dengan Internet Explorer, memastikan penggunaan versi terbaru dari IE.
+   
    -<meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur tampilan dan skala halaman untuk perangkat bergerak, memastikan tampilan yang responsif.
+   
    -<title>GlamourousGems</title>: Menentukan judul halaman web yang akan ditampilkan di bilah judul browser dan hasil pencarian mesin telusur.
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/0fcf6802-2248-4ba4-8f14-cd254c876c3a)
