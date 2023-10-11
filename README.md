@@ -37,31 +37,10 @@ harga terjangkau.
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
 
    -<meta charset="UTF-8">: Mengatur karakter encoding menjadi UTF-8 untuk mendukung banyak karakter dan simbol.
-   
    -<meta http-equiv="X-UA-Compatible" content="IE=edge">: Mengontrol kompatibilitas dengan Internet Explorer, memastikan penggunaan versi terbaru dari IE.
-   
    -<meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur tampilan dan skala halaman untuk perangkat bergerak, memastikan tampilan yang responsif.
-   
    -<title>GlamourousGems</title>: Menentukan judul halaman web yang akan ditampilkan di bilah judul browser dan hasil pencarian mesin telusur.
-
-   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/0fcf6802-2248-4ba4-8f14-cd254c876c3a)
-
-   -Kode ini digunakan untuk menghubungkan jenis huruf (font) dari Google Fonts ke halaman web. Langkah-langkahnya meliputi prapenghubung (preconnect) ke server Google Fonts dan mengimpor jenis huruf Poppins dengan berkas CSS yang diperlukan untuk tampilan font tersebut.
-
-   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/b84a4d71-71c4-4c7d-aff9-ad3bdb0a6274)
-
-   -Kode ini mengimpor Feather Icons ke halaman web dengan menghubungkan ke skrip di alamat "https://unpkg.com/feather-icons."
    
-   -Kode ini mengimpor berkas CSS yang disebut "style.css" ke halaman web Anda, sehingga Anda dapat mengatur tampilan dan gaya halaman menggunakan CSS.
-   
-   -<a href="#" class="navbar-logo">Glamourous<span>Gems</span></a>: Ini adalah logo situs yang terdiri dari teks "GlamourousGems" dengan dua kata yang diberi kelas "navbar-logo."
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/20241360-6ea0-4709-973f-ebf03676554a)
-
-   -<div class="navbar-nav">: Ini adalah daftar tautan menu navigasi yang mencakup tautan ke bagian-bagian halaman seperti "Home," "Tentang Kami," "Produk," dan "Kontak." Ini diberi kelas "navbar-nav" untuk mengatur tampilan menu.
-   
-   -<div class="navbar-extra">: Ini adalah elemen tambahan di navbar yang berisi tautan untuk tindakan seperti pencarian ("search"), keranjang belanja ("shopping cart"), dan menu hamburger ("hamburger menu"). Masing-masing tautan ini memiliki ikon dari Feather Icons yang disediakan.
-
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
@@ -133,18 +112,12 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/7c5b8497-74e4-457a-9e52-45fd9fa98150)
 
--“ #hamburger-menu “ Adalah selector untuk elemen dengan ID "hamburger-menu".
+-" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
+-“ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
+
+-" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
   
--“ display: none; “ Ini mengatur elemen dengan ID "hamburger-menu" menjadi tidak terlihat (display: none).
-  
--“ .navbar .search-form “ Selector untuk elemen dengan kelas "search-form" dalam elemen navbar.
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/e8983d49-3163-487d-9671-fe7424a4e5b4)
-
--“ .navbar .search-form.active “ Selector untuk elemen "search-form" yang memiliki kelas "active". Ketika elemen ini aktif, transformasi skala vertikalnya akan diubah menjadi 1 (normal), sehingga elemen ini akan terlihat.
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
-
+-“ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
 
 
 
