@@ -176,3 +176,9 @@ harga terjangkau.
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/13f52c17-20d5-4d7c-a213-7aa6f6ccad85)
 
 -“ /* Contact Section * “ Adalah bagian dalam sebuah halaman web yang biasanya digunakan untuk menampilkan informasi kontak, seperti alamat, nomor telepon, alamat email, peta lokasi, atau formulir kontak yang memungkinkan pengunjung untuk menghubungi pemilik situs web atau bisnis.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/5674b5d5-deee-4af9-b592-57f921627aae)
+
+-“ /* Footer */ “ adalah bagian umum dalam desain halaman web yang biasanya terletak di bagian bawah halaman. Ini berisi informasi tambahan seperti tautan ke halaman lain, hak cipta, tautan media sosial, dan informasi kontak. Biasanya, footer adalah bagian yang merinci informasi penting dan memberikan pengguna akses ke sejumlah tautan penting terkait dengan situs web atau perusahaan.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9360d88b-5129-4e38-9d24-d425112aad61)
