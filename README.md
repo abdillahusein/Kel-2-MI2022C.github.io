@@ -36,33 +36,23 @@ harga terjangkau.
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
 
-   -<meta charset="UTF-8">: Mengatur karakter encoding menjadi UTF-8 untuk mendukung banyak karakter dan simbol.
+   - <meta charset="UTF-8">: Mengatur karakter encoding menjadi UTF-8 untuk mendukung banyak karakter dan simbol.
    
-   -<meta http-equiv="X-UA-Compatible" content="IE=edge">: Mengontrol kompatibilitas dengan Internet Explorer, memastikan penggunaan versi terbaru dari IE.
+   - <meta http-equiv="X-UA-Compatible" content="IE=edge">: Mengontrol kompatibilitas dengan Internet Explorer, memastikan penggunaan versi terbaru dari IE.
    
-   -<meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur tampilan dan skala halaman untuk perangkat bergerak, memastikan tampilan yang responsif.
+   - <meta name="viewport" content="width=device-width, initial-scale=1.0">: Mengatur tampilan dan skala halaman untuk perangkat bergerak, memastikan tampilan yang responsif.
    
-   -<title>GlamourousGems</title>: Menentukan judul halaman web yang akan ditampilkan di bilah judul browser dan hasil pencarian mesin telusur.
+   - <title>GlamourousGems</title>: Menentukan judul halaman web yang akan ditampilkan di bilah judul browser dan hasil pencarian mesin telusur.
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/0fcf6802-2248-4ba4-8f14-cd254c876c3a)
 
-   -Kode ini digunakan untuk menghubungkan jenis huruf (font) dari Google Fonts ke halaman web. Langkah-langkahnya meliputi prapenghubung (preconnect) ke server Google Fonts dan mengimpor jenis huruf Poppins dengan berkas CSS yang diperlukan untuk tampilan font tersebut.
+   - Kode ini digunakan untuk menghubungkan jenis huruf (font) dari Google Fonts ke halaman web. Langkah-langkahnya meliputi prapenghubung (preconnect) ke server Google Fonts dan mengimpor jenis huruf Poppins dengan berkas CSS yang diperlukan untuk tampilan font tersebut.
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/b84a4d71-71c4-4c7d-aff9-ad3bdb0a6274)
 
-   -Kode ini mengimpor Feather Icons ke halaman web dengan menghubungkan ke skrip di alamat "https://unpkg.com/feather-icons."
-   
-   -Kode ini mengimpor berkas CSS yang disebut "style.css" ke halaman web Anda, sehingga Anda dapat mengatur tampilan dan gaya halaman menggunakan CSS.
-   
-   -<a href="#" class="navbar-logo">Glamourous<span>Gems</span></a>: Ini adalah logo situs yang terdiri dari teks "GlamourousGems" dengan dua kata yang diberi kelas "navbar-logo."
+   - Kode ini mengimpor Feather Icons ke halaman web dengan menghubungkan ke skrip di alamat "https://unpkg.com/feather-icons."
 
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/20241360-6ea0-4709-973f-ebf03676554a)
-
-   -<div class="navbar-nav">: Ini adalah daftar tautan menu navigasi yang mencakup tautan ke bagian-bagian halaman seperti "Home," "Tentang Kami," "Produk," dan "Kontak." Ini diberi kelas "navbar-nav" untuk mengatur tampilan menu.
-   
-   -<div class="navbar-extra">: Ini adalah elemen tambahan di navbar yang berisi tautan untuk tindakan seperti pencarian ("search"), keranjang belanja ("shopping cart"), dan menu hamburger ("hamburger menu"). Masing-masing tautan ini memiliki ikon dari Feather Icons yang disediakan.
-
-4. Penjelasan Source Code JavaScript
+5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
 
@@ -98,7 +88,7 @@ harga terjangkau.
    -Klik tombol close modal adalah kode untuk menangani pengklikan tombol close (ikon close) di dalam modal.
    -Ketika tombol close (dengan kelas .close-icon) dalam modal diklik, kode ini menyembunyikan modal dengan mengatur properti display CSS-nya menjadi "none".
 
-5. Penjelasan Source Code CSS 
+6. Penjelasan Source Code CSS 
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/eeba4cf1-b2c7-4b24-9499-ad4aee4bfc1d)
 
@@ -145,21 +135,8 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
 
-" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
 
--“ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
 
--“ position: absolute; “ Ini mengatur posisi elemen "shopping-cart" menjadi absolut, yang berarti elemen ini akan ditempatkan secara absolut terhadap elemen yang paling dekat yang memiliki posisi relatif, atau elemen akar (root) jika tidak ada elemen yang memiliki posisi relatif.
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/35703acb-0e7c-419a-b68b-9c24e1257d07)
-
--“ .shopping-cart.active “ Selector untuk elemen "shopping-cart" yang memiliki kelas "active".
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/c7431bb0-c6ed-4da4-9cf1-acdb03234a2c)
-
--“ /* Hero Section */ “ adalah bagian dari kode CSS yang digunakan untuk memberikan penjelasan atau catatan tentang bagian kode di bawahnya. Ini hanya digunakan untuk dokumentasi dan membantu pengembang atau orang lain yang membaca kode untuk memahami bahwa bagian kode yang berikut ini adalah bagian yang berkaitan dengan "Hero Section."
-
-![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/b921d47b-48a0-4372-85ea-e58270199024)
 
 
 
