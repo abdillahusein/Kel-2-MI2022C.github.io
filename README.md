@@ -137,17 +137,23 @@ harga terjangkau.
 
 -" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
 
-- “ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
+-“ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
   
 -“ position: absolute; “ Ini mengatur posisi elemen "shopping-cart" menjadi absolut, yang berarti elemen ini akan ditempatkan secara absolut terhadap elemen yang paling dekat yang memiliki posisi relatif, atau elemen akar (root) jika tidak ada elemen yang memiliki posisi relatif.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/8fa88941-828c-4f27-97ab-5049a43e70df)
+
+-	“ .shopping-cart.active “ Selector untuk elemen "shopping-cart" yang memiliki kelas "active".
+
+  ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/af37ea34-50d8-4300-8b4c-1b0209716b4c)
+  
+-	“ /* Hero Section */ “ adalah bagian dari kode CSS yang digunakan untuk memberikan penjelasan atau catatan tentang bagian kode di bawahnya. Ini hanya digunakan untuk dokumentasi dan membantu pengembang atau orang lain yang membaca kode untuk memahami bahwa bagian kode yang berikut ini adalah bagian yang berkaitan dengan "Hero Section."
+
+  ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/0e1aa050-e916-4be1-9edc-d0f0c902b43b)
 
 -“ .hero::after “ Ini adalah selector CSS yang digunakan untuk memilih pseudo-element "::after" yang terkait dengan elemen yang memiliki kelas "hero". Pseudo-element "::after" adalah elemen virtual yang dapat digunakan untuk menambahkan konten tambahan atau mengubah tampilan elemen utama setelah kontennya.
 
 -“ .hero .mask-container “ selector ini hanya berlaku jika elemen dengan kelas "mask-container" tersebut berada dalam elemen dengan kelas "hero." Dengan kata lain, elemen yang akan dipilih harus menjadi anak atau elemen turunan dari elemen dengan kelas "hero."
-
-
-
-
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/d78d6703-95be-45c0-b041-9c30b0fa54a6)
 
