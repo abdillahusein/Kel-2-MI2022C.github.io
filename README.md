@@ -165,11 +165,13 @@ harga terjangkau.
 
 
 
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/d78d6703-95be-45c0-b041-9c30b0fa54a6)
 
+-“ .hero .content “ Kode tersebut menunjukkan bahwa Anda ingin mengatur properti CSS atau tampilan untuk elemen-elemen yang memenuhi kriteria di atas, yaitu elemen-elemen dengan kelas "content" yang berada di dalam elemen dengan kelas "hero."
 
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/0b089945-96bc-490a-b7e5-71acc2f0f4af)
 
-
-
+-“ /* About Section */ “  adalah bagian dalam sebuah halaman web yang digunakan untuk menjelaskan atau menggambarkan informasi tentang bisnis, produk, atau topik tertentu yang relevan dengan situs web tersebut.
 
 
 
