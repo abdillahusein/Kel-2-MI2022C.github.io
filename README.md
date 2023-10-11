@@ -87,10 +87,16 @@ harga terjangkau.
 -“ .navbar “ Ini adalah selector untuk elemen dengan kelas "navbar". Dalam blok ini, digunakan mengatur beberapa properti yang berkaitan dengan tampilan navbar.
 
   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/66bd72c2-b196-4a29-881e-013983a30552)
-  
 -“ .navbar .navbar-logo “ Adalah selector untuk elemen dengan kelas "navbar-logo" yang berada di dalam elemen navbar.
   
 -“ .navbar .navbar-logo span ” Selector untuk elemen <span> yang berada di dalam elemen "navbar-logo”.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/ef10b247-dacc-478f-8ce8-74ee4cf619a9)
+
+-“ .navbar .navbar-nav a “ Selector untuk tautan yang berada di dalam elemen dengan kelas "navbar-nav" dalam navbar.
+  
+-“ .navbar .navbar-nav a:hover “ Selector untuk tautan ketika kursor mouse berada di atasnya (hover).
+
 
 
 
