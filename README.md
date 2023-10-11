@@ -136,7 +136,9 @@ harga terjangkau.
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
 
 
+-“ .hero::after “ Ini adalah selector CSS yang digunakan untuk memilih pseudo-element "::after" yang terkait dengan elemen yang memiliki kelas "hero". Pseudo-element "::after" adalah elemen virtual yang dapat digunakan untuk menambahkan konten tambahan atau mengubah tampilan elemen utama setelah kontennya.
 
+-“ .hero .mask-container “ selector ini hanya berlaku jika elemen dengan kelas "mask-container" tersebut berada dalam elemen dengan kelas "hero." Dengan kata lain, elemen yang akan dipilih harus menjadi anak atau elemen turunan dari elemen dengan kelas "hero."
 
 
 
