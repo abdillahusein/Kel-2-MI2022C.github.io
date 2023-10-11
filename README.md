@@ -32,4 +32,46 @@ harga terjangkau.
 
    ![Use case (1)](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/50589000-ab40-464e-be29-12460ad434be)
 
+3. Penjelasan Source Code JavaScript
+   
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
 
+   -Toggle class active untuk hamburger menu adalah kode untuk mencari elemen dengan kelas .navbar-nav dan menyimpannya dalam variabel navbarNav.
+   -navbarNav. Ini digunakan untuk menampilkan atau menyembunyikan menu navigasi (hamburger menu) dengan mengubah tampilan CSS.
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/aa064de6-d34a-4d12-8ba3-cdd482e1429e)
+
+   -Toggle class active untuk search form adalah kode untuk mencari elemen dengan kelas .search-form dan elemen dengan id search-box, kemudian menyimpannya dalam variabel searchForm dan searchBox.
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/d989fb81-458b-491e-b03e-910f7806037f)
+
+   -Mengubah atau "toggle" kelas active pada elemen searchForm untuk menampilkan atau menyembunyikan kotak pencarian.
+   -Memberikan fokus kepada elemen searchBox (sehingga pengguna dapat langsung memasukkan teks ke dalamnya).
+   -Menghentikan aksi bawaan dari elemen HTML dengan e.preventDefault() untuk mencegah peristiwa klik standar (misalnya, mengirimkan formulir).
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/8ff47fa9-d591-4593-b5a4-65d2389877f5)
+
+   -Toggle class active untuk shopping cart adalah kode untuk mencari elemen dengan kelas .shopping-cart dan menyimpannya dalam variabel shoppingCart.
+   -Mengubah atau "toggle" kelas active pada elemen shoppingCart untuk menampilkan atau menyembunyikan keranjang belanja.
+   -Menghentikan aksi bawaan dari elemen HTML dengan e.preventDefault() untuk mencegah peristiwa klik standar (misalnya, mengikuti tautan).
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/9b7f6027-e96f-4c78-97b1-7f80fb639a31)
+
+   -Klik di luar elemen adalah kode untuk mengatasi kasus ketika pengguna mengklik di luar elemen-elemen seperti hamburger menu, form pencarian, dan shopping cart. Ini dilakukan dengan mengecek apakah klik terjadi di luar elemen-elemen tersebut.
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/d5b3a7aa-3478-4ae8-8325-b72f3d4d981e)
+
+   -Modal Box adalah kode untuk berurusan dengan tampilan modal (pop-up window) saat pengguna mengklik elemen-elemen dengan kelas .item-detail-button.
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2cfcbcc0-d5ea-402c-92d0-e437e861ba92)
+
+   -Klik tombol close modal adalah kode untuk menangani pengklikan tombol close (ikon close) di dalam modal.
+   -Ketika tombol close (dengan kelas .close-icon) dalam modal diklik, kode ini menyembunyikan modal dengan mengatur properti display CSS-nya menjadi "none".
+
+
+
+
+
+
+
+   
