@@ -182,3 +182,7 @@ harga terjangkau.
 -“ /* Footer */ “ adalah bagian umum dalam desain halaman web yang biasanya terletak di bagian bawah halaman. Ini berisi informasi tambahan seperti tautan ke halaman lain, hak cipta, tautan media sosial, dan informasi kontak. Biasanya, footer adalah bagian yang merinci informasi penting dan memberikan pengguna akses ke sejumlah tautan penting terkait dengan situs web atau perusahaan.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9360d88b-5129-4e38-9d24-d425112aad61)
+
+-/* Modal Box */ dan /* Item Detail */  Dalam desain web, "Modal Box" adalah komponen yang sering digunakan untuk menampilkan konten tambahan, seperti gambar atau informasi detail, dalam sebuah jendela kecil yang muncul di atas halaman web saat pengguna mengklik atau melakukan tindakan tertentu. “Item Detail" dapat merujuk pada konten atau informasi detail tentang sebuah item tertentu, seperti produk dalam toko online atau posting dalam galeri.
+
+-“ /* Modal Animation */ "  merujuk pada animasi atau efek visual yang digunakan saat "Modal Box" ditampilkan atau disembunyikan, seperti pergeseran, transparansi, perubahan ukuran, atau efek lain yang membuat tampilan modal box lebih menarik atau informatif bagi pengguna.
