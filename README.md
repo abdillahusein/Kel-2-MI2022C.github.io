@@ -62,7 +62,7 @@ harga terjangkau.
    
    -<div class="navbar-extra">: Ini adalah elemen tambahan di navbar yang berisi tautan untuk tindakan seperti pencarian ("search"), keranjang belanja ("shopping cart"), dan menu hamburger ("hamburger menu"). Masing-masing tautan ini memiliki ikon dari Feather Icons yang disediakan.
 
-5. Penjelasan Source Code JavaScript
+4. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
 
@@ -98,7 +98,7 @@ harga terjangkau.
    -Klik tombol close modal adalah kode untuk menangani pengklikan tombol close (ikon close) di dalam modal.
    -Ketika tombol close (dengan kelas .close-icon) dalam modal diklik, kode ini menyembunyikan modal dengan mengatur properti display CSS-nya menjadi "none".
 
-6. Penjelasan Source Code CSS 
+5. Penjelasan Source Code CSS 
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/eeba4cf1-b2c7-4b24-9499-ad4aee4bfc1d)
 
@@ -145,7 +145,15 @@ harga terjangkau.
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/9af6b665-44e0-4cc6-a79e-2a8d3f8a0699)
 
+" .navbar .search-form label “ selector untuk elemen label yang berada dalam elemen "search-form".
 
+-“ .shopping-cart “ selector untuk elemen dengan kelas "shopping-cart".
+
+-“ position: absolute; “ Ini mengatur posisi elemen "shopping-cart" menjadi absolut, yang berarti elemen ini akan ditempatkan secara absolut terhadap elemen yang paling dekat yang memiliki posisi relatif, atau elemen akar (root) jika tidak ada elemen yang memiliki posisi relatif.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/35703acb-0e7c-419a-b68b-9c24e1257d07)
+
+-“ .shopping-cart.active “ Selector untuk elemen "shopping-cart" yang memiliki kelas "active".
 
 
 
