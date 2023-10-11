@@ -152,7 +152,8 @@ harga terjangkau.
 
 -“ /* About Section */ “  adalah bagian dalam sebuah halaman web yang digunakan untuk menjelaskan atau menggambarkan informasi tentang bisnis, produk, atau topik tertentu yang relevan dengan situs web tersebut.
 
+-“ padding: 8rem 7% 1.4rem; “  adalah sebuah aturan CSS yang mengatur jarak antara elemen terkait dengan menggunakan properti padding. Properti padding digunakan untuk mengatur jarak atau ruang internal pada elemen HTML, seperti elemen div atau kontainer.
 
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/01229f11-0174-4ad1-855d-830aacfa37d8)
 
-
-   
+-“ /* Menu Section */ “  adalah bagian dalam sebuah halaman web yang digunakan untuk menampilkan daftar menu atau pilihan yang tersedia kepada pengunjung. Ini dapat mencakup daftar makanan, produk, atau kategori lain yang relevan dengan situs web tersebut.  
