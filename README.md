@@ -186,3 +186,7 @@ harga terjangkau.
 -/* Modal Box */ dan /* Item Detail */  Dalam desain web, "Modal Box" adalah komponen yang sering digunakan untuk menampilkan konten tambahan, seperti gambar atau informasi detail, dalam sebuah jendela kecil yang muncul di atas halaman web saat pengguna mengklik atau melakukan tindakan tertentu. “Item Detail" dapat merujuk pada konten atau informasi detail tentang sebuah item tertentu, seperti produk dalam toko online atau posting dalam galeri.
 
 -“ /* Modal Animation */ "  merujuk pada animasi atau efek visual yang digunakan saat "Modal Box" ditampilkan atau disembunyikan, seperti pergeseran, transparansi, perubahan ukuran, atau efek lain yang membuat tampilan modal box lebih menarik atau informatif bagi pengguna.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/7d58ce84-3a66-4d2b-930f-43304af47b88)
+
+-“ /* Media Queries */ “ Adalah teknik yang digunakan untuk mengatur tampilan halaman web berdasarkan karakteristik perangkat yang digunakan oleh pengguna, seperti lebar layar, tinggi layar, orientasi layar (misalnya, potret atau lanskap), dan sebagainya.
