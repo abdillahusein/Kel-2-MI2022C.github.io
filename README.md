@@ -155,6 +155,11 @@ harga terjangkau.
 
 -“ .shopping-cart.active “ Selector untuk elemen "shopping-cart" yang memiliki kelas "active".
 
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/c7431bb0-c6ed-4da4-9cf1-acdb03234a2c)
+
+-“ /* Hero Section */ “ adalah bagian dari kode CSS yang digunakan untuk memberikan penjelasan atau catatan tentang bagian kode di bawahnya. Ini hanya digunakan untuk dokumentasi dan membantu pengembang atau orang lain yang membaca kode untuk memahami bahwa bagian kode yang berikut ini adalah bagian yang berkaitan dengan "Hero Section."
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/b921d47b-48a0-4372-85ea-e58270199024)
 
 
 
