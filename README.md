@@ -168,3 +168,11 @@ harga terjangkau.
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/01229f11-0174-4ad1-855d-830aacfa37d8)
 
 -“ /* Menu Section */ “  adalah bagian dalam sebuah halaman web yang digunakan untuk menampilkan daftar menu atau pilihan yang tersedia kepada pengunjung. Ini dapat mencakup daftar makanan, produk, atau kategori lain yang relevan dengan situs web tersebut.  
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/356fc5e3-ab61-49cc-a862-3657acebbd9d)
+
+-“ /* Products Section */ “ adalah bagian dalam sebuah halaman web yang digunakan untuk menampilkan produk atau layanan yang ditawarkan oleh bisnis atau situs web tertentu. Ini biasanya mencakup gambar, deskripsi produk, harga, dan tautan ke halaman detail produk atau halaman lain yang relevan.
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/13f52c17-20d5-4d7c-a213-7aa6f6ccad85)
+
+-“ /* Contact Section * “ Adalah bagian dalam sebuah halaman web yang biasanya digunakan untuk menampilkan informasi kontak, seperti alamat, nomor telepon, alamat email, peta lokasi, atau formulir kontak yang memungkinkan pengunjung untuk menghubungi pemilik situs web atau bisnis.
