@@ -73,6 +73,10 @@ harga terjangkau.
 
    - Setiap elemen <div class="cart-item"> merepresentasikan satu item dalam keranjang belanja. Masing-masing item memiliki gambar produk, informasi produk yang terdiri dari nama ("Product 1," "Product 2," dan "Product 3") dan harga dalam mata uang Rupiah, serta ikon "hapus" (<i data-feather="trash-2" class="remove-item"></i>) untuk menghapus item dari keranjang.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/bc13bc35-d197-4ab2-b88b-7cbb586662d0)
+
+   - Kode ini menutup elemen navigasi (navbar) dan menandai awal dan akhir dari bagian "Hero Section" di halaman web. Bagian "Hero Section" ini berisi elemen berjudul "Temukan Produk Terbaik" dengan deskripsi tambahan "Hanya untukmu!" yang menyoroti produk-produk unggulan dan menyambut pengguna ketika mereka masuk ke situs web. Bagian ini memiliki latar belakang atau "mask-container" yang mendukung elemen judul dan deskripsi tersebut.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
