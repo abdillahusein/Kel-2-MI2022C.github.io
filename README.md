@@ -95,6 +95,18 @@ harga terjangkau.
      
    - Elemen-elemen "product-card" yang mewakili produk-produk. Setiap "product-card" mencakup gambar produk, ikon "shopping cart" untuk menambahkan produk ke keranjang belanja, informasi produk seperti nama, peringkat bintang, dan harga dalam mata uang Rupiah.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/accdd8b8-0a54-457f-b224-41deda78b5e7)
+
+   - Judul "Kontak Kami" yang menunjukkan bahwa pengguna dapat menghubungi situs web.
+     
+   - Deskripsi singkat yang mengundang pengguna untuk memberikan saran atau pertanyaan.
+     
+   - Sebuah peta (yang mungkin perlu dikonfigurasi dengan sumber peta yang valid) yang menunjukkan lokasi fisik atau wilayah operasi situs.
+     
+   - Formulir kontak yang memungkinkan pengguna memasukkan nama, email, nomor telepon, dan pesan.
+     
+   - Tombol "kirim pesan" untuk mengirim pesan kepada situs.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
