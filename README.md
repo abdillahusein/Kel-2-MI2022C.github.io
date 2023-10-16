@@ -56,6 +56,13 @@ harga terjangkau.
 
    - Kode ini mengimpor berkas CSS yang disebut "style.css" ke halaman web Anda, sehingga Anda dapat mengatur tampilan dan gaya halaman menggunakan CSS.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/0c15df1e-591c-475e-a42d-14240e934852)
+   - <a href="#" class="navbar-logo">Glamourous<span>Gems</span></a>: Ini adalah logo situs yang terdiri dari teks "GlamourousGems" dengan dua kata yang diberi kelas "navbar-logo."
+     
+   - <div class="navbar-nav">: Ini adalah daftar tautan menu navigasi yang mencakup tautan ke bagian-bagian halaman seperti "Home," "Tentang Kami," "Produk," dan "Kontak." Ini diberi kelas "navbar-nav" untuk mengatur tampilan menu.
+   
+   - <div class="navbar-extra">: Ini adalah elemen tambahan di navbar yang berisi tautan untuk tindakan seperti pencarian ("search"), keranjang belanja ("shopping cart"), dan menu hamburger ("hamburger menu"). Masing-masing tautan ini memiliki ikon dari Feather Icons yang disediakan.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
