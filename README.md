@@ -84,6 +84,16 @@ harga terjangkau.
    - Elemen gambar ("about-img") yang menampilkan gambar yang menggambarkan atau mendukung isi tentang halaman ini.
      
    - Elemen konten ("content") yang berisi informasi tentang alasan memilih situs "GLAMOUROUSGEMS." Informasi ini menjelaskan bahwa situs ini adalah tujuan utama untuk berburu barang-barang unik, fashion berkualitas, dan barang-barang vintage yang terjangkau. Selain itu, situs ini mengabdikan diri untuk menjadikan pengalaman berbelanja yang menyenangkan dan berkelanjutan.
+  
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/f416c4c5-4779-4e21-be60-15ac43d11aa7)
+
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/66fec68e-8dda-4b5f-a0f2-ff4f69e1f045)
+
+   - Judul "Produk Unggulan Kami" yang menunjukkan bahwa ini adalah bagian yang menampilkan produk terbaik.
+     
+   - Deskripsi singkat yang menjelaskan bahwa produk-produk ini banyak dibeli dan berkualitas.
+     
+   - Elemen-elemen "product-card" yang mewakili produk-produk. Setiap "product-card" mencakup gambar produk, ikon "shopping cart" untuk menambahkan produk ke keranjang belanja, informasi produk seperti nama, peringkat bintang, dan harga dalam mata uang Rupiah.
 
 5. Penjelasan Source Code JavaScript
    
