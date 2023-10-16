@@ -115,6 +115,10 @@ harga terjangkau.
      
    - Informasi kredit yang menyatakan bahwa situs dibuat oleh "GlamourousGems" dan mencantumkan hak cipta tahun 2023.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/81278227-b8e3-4e53-8e79-1515fcec6b1a)
+
+   - Kode ini adalah bagian dari penggunaan Feather Icons di halaman web. Ini adalah skrip JavaScript yang menggantikan ikon-ikon dalam halaman dengan ikon-ikon dari Feather Icons, yang memungkinkan Anda menggunakan ikon-ikon yang tersedia dalam font icon di situs Anda. Ikon-ikon ini dapat digunakan untuk menyempurnakan tampilan dan fungsionalitas situs web.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
