@@ -77,6 +77,14 @@ harga terjangkau.
 
    - Kode ini menutup elemen navigasi (navbar) dan menandai awal dan akhir dari bagian "Hero Section" di halaman web. Bagian "Hero Section" ini berisi elemen berjudul "Temukan Produk Terbaik" dengan deskripsi tambahan "Hanya untukmu!" yang menyoroti produk-produk unggulan dan menyambut pengguna ketika mereka masuk ke situs web. Bagian ini memiliki latar belakang atau "mask-container" yang mendukung elemen judul dan deskripsi tersebut.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/a57b4d23-8695-4db0-9e6d-c989e647c476)
+
+   - Judul "Tentang Kami" yang memberi tahu pengguna bahwa ini adalah bagian yang berfokus pada informasi tentang situs.
+     
+   - Elemen gambar ("about-img") yang menampilkan gambar yang menggambarkan atau mendukung isi tentang halaman ini.
+     
+   - Elemen konten ("content") yang berisi informasi tentang alasan memilih situs "GLAMOUROUSGEMS." Informasi ini menjelaskan bahwa situs ini adalah tujuan utama untuk berburu barang-barang unik, fashion berkualitas, dan barang-barang vintage yang terjangkau. Selain itu, situs ini mengabdikan diri untuk menjadikan pengalaman berbelanja yang menyenangkan dan berkelanjutan.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
