@@ -107,6 +107,14 @@ harga terjangkau.
      
    - Tombol "kirim pesan" untuk mengirim pesan kepada situs.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/1b2ca82c-ec00-4fba-89d5-062d7cea9834)
+
+   - Tautan ke media sosial seperti Instagram, Twitter, dan Facebook yang memungkinkan pengguna mengunjungi profil atau halaman sosial situs.
+     
+   - Tautan menu yang mengarah ke bagian-bagian utama situs seperti "Home," "Tentang Kami," dan "Kontak."
+     
+   - Informasi kredit yang menyatakan bahwa situs dibuat oleh "GlamourousGems" dan mencantumkan hak cipta tahun 2023.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
@@ -143,7 +151,7 @@ harga terjangkau.
    -Klik tombol close modal adalah kode untuk menangani pengklikan tombol close (ikon close) di dalam modal.
    -Ketika tombol close (dengan kelas .close-icon) dalam modal diklik, kode ini menyembunyikan modal dengan mengatur properti display CSS-nya menjadi "none".
 
-6. Penjelasan Source Code CSS 
+7. Penjelasan Source Code CSS 
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/eeba4cf1-b2c7-4b24-9499-ad4aee4bfc1d)
 
