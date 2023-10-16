@@ -52,6 +52,10 @@ harga terjangkau.
 
    - Kode ini mengimpor Feather Icons ke halaman web dengan menghubungkan ke skrip di alamat "https://unpkg.com/feather-icons."
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/d9cdfe30-61b4-4fbe-b594-9a40b5269520)
+
+   - Kode ini mengimpor berkas CSS yang disebut "style.css" ke halaman web Anda, sehingga Anda dapat mengatur tampilan dan gaya halaman menggunakan CSS.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
