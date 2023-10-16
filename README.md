@@ -119,6 +119,10 @@ harga terjangkau.
 
    - Kode ini adalah bagian dari penggunaan Feather Icons di halaman web. Ini adalah skrip JavaScript yang menggantikan ikon-ikon dalam halaman dengan ikon-ikon dari Feather Icons, yang memungkinkan Anda menggunakan ikon-ikon yang tersedia dalam font icon di situs Anda. Ikon-ikon ini dapat digunakan untuk menyempurnakan tampilan dan fungsionalitas situs web.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/6ba373e3-ac58-4caf-9b1a-872859a6c8de)
+
+   - Kode ini adalah cara untuk menghubungkan dan memuat berkas JavaScript eksternal dengan nama "script.js" ke halaman web. Berkas JavaScript ini kemungkinan berisi skrip-skrip yang mengendalikan perilaku interaktif atau fungsionalitas khusus pada situs web. Berkas ini dimuat sebelum penutupan elemen <body> untuk memastikan bahwa skrip-skrip tersebut tersedia dan siap digunakan oleh halaman web.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
