@@ -69,6 +69,10 @@ harga terjangkau.
      
    - Formulir ini diberi kelas "search-form" dan memungkinkan pengguna mencari informasi dengan memasukkan teks ke dalam kotak pencarian.
 
+     ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/aafceaf6-5ffc-4582-bae5-c68f47ae9041)
+
+   - Setiap elemen <div class="cart-item"> merepresentasikan satu item dalam keranjang belanja. Masing-masing item memiliki gambar produk, informasi produk yang terdiri dari nama ("Product 1," "Product 2," dan "Product 3") dan harga dalam mata uang Rupiah, serta ikon "hapus" (<i data-feather="trash-2" class="remove-item"></i>) untuk menghapus item dari keranjang.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
