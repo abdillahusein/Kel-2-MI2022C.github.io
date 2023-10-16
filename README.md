@@ -63,6 +63,12 @@ harga terjangkau.
    
    - <div class="navbar-extra">: Ini adalah elemen tambahan di navbar yang berisi tautan untuk tindakan seperti pencarian ("search"), keranjang belanja ("shopping cart"), dan menu hamburger ("hamburger menu"). Masing-masing tautan ini memiliki ikon dari Feather Icons yang disediakan.
 
+   ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/380a4ce8-f775-495a-993c-b1bc50774374)
+
+   - Kode ini adalah awal dan akhir dari formulir pencarian (search form) di halaman web. Formulir ini memiliki elemen input tipe "search" yang memungkinkan pengguna memasukkan teks pencarian, dan ada juga label yang berisi ikon pencarian.
+     
+   - Formulir ini diberi kelas "search-form" dan memungkinkan pengguna mencari informasi dengan memasukkan teks ke dalam kotak pencarian.
+
 5. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
