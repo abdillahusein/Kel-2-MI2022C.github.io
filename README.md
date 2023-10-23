@@ -555,10 +555,17 @@ ditampilkan di peramban internet.
 
 6.2 Lampiran B : Model Analisis
 
+- Use Case
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/04982372-512a-4570-9b4e-7fe08dbba0fe)
+
+- Flowchart Diagram
+
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/40a1ba57-e2ee-4680-95cf-3d9f40ec4d3f)
 
 6.3 Lampiran C : Penjelasan Source Code
 
-4. Penjelasan Source Code Html
+1. Penjelasan Source Code Html
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
 
@@ -649,7 +656,7 @@ ditampilkan di peramban internet.
 
    - Kode ini adalah cara untuk menghubungkan dan memuat berkas JavaScript eksternal dengan nama "script.js" ke halaman web. Berkas JavaScript ini kemungkinan berisi skrip-skrip yang mengendalikan perilaku interaktif atau fungsionalitas khusus pada situs web. Berkas ini dimuat sebelum penutupan elemen <body> untuk memastikan bahwa skrip-skrip tersebut tersedia dan siap digunakan oleh halaman web.
 
-5. Penjelasan Source Code JavaScript
+2. Penjelasan Source Code JavaScript
    
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/2db87563-a219-4a9a-a4a4-9f9462b60e63)
 
@@ -685,7 +692,7 @@ ditampilkan di peramban internet.
    -Klik tombol close modal adalah kode untuk menangani pengklikan tombol close (ikon close) di dalam modal.
    -Ketika tombol close (dengan kelas .close-icon) dalam modal diklik, kode ini menyembunyikan modal dengan mengatur properti display CSS-nya menjadi "none".
 
-7. Penjelasan Source Code CSS 
+3. Penjelasan Source Code CSS 
 
 ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124483393/eeba4cf1-b2c7-4b24-9499-ad4aee4bfc1d)
 
