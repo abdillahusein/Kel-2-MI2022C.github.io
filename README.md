@@ -138,11 +138,11 @@ Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin me
 
    2.2 Fungsi Produk
 
-- Dirancang khusus untuk membantu pengelolaan dan operasional GlamorousGems secara online.
+   - Dirancang khusus untuk membantu pengelolaan dan operasional GlamorousGems secara online.
   
-- membantu kami dalam melacak inventaris GlamorousGems yang tersedia. Ini mencakup melihat stok barang, memperbarui jumlah barang, dan mengatur kategori produk.
+   - membantu kami dalam melacak inventaris GlamorousGems yang tersedia. Ini mencakup melihat stok barang, memperbarui jumlah barang, dan mengatur kategori produk.
   
-- Website GlamorousGems memungkinkan pengguna untuk mendaftarkan produk bekas yang ingin dijual. Pengguna dapat memasukkan informasi seperti nama produk, deskripsi, kondisi barang, harga, dan gambar produk.
+   - Website GlamorousGems memungkinkan pengguna untuk mendaftarkan produk bekas yang ingin dijual. Pengguna dapat memasukkan informasi seperti nama produk, deskripsi, kondisi barang, harga, dan gambar produk.
 
   2.3 Kelas Pengguna dan Karakteristik
 
@@ -154,9 +154,74 @@ Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin me
   
    - Pembeli : Kelas pengguna ini dapat menjelajahi dan membeli produk yang ditawarkan oleh penjual. Mereka harus mendaftar ke website dan dapat melakukan transaksi melalui aplikasi. Pembeli tidak harus memiliki keahlian teknis tertentu untuk menggunakan webiste.
 
-   - Tamu: Kelas pengguna ini adalah pengunjung aplikasi yang belum mendaftar sebagai pengguna. Mereka dapat menjelajahi dan melihat produk yang ditawarkan oleh penjual, tetapi tidak dapat melakukan transaksi atau mengakses fitur lainnya di aplikasi.
+   - Tamu : Kelas pengguna ini adalah pengunjung aplikasi yang belum mendaftar sebagai pengguna. Mereka dapat menjelajahi dan melihat produk yang ditawarkan oleh penjual, tetapi tidak dapat melakukan transaksi atau mengakses fitur lainnya di aplikasi.
 
 Kelas pengguna yang paling penting untuk dipenuhi adalah admin dan penjual, karena mereka bertanggung jawab untuk mengelola dan menjalankan website. Pembeli dan tamu juga penting, tetapi persyaratan mereka lebih sederhana dan lebih mudah dipenuhi.    
+
+2.4 Lingkup Operasi 
+
+   - Lingkup operasi webiste GlamorousGems :
+
+     1.	Pendaftaran dan pengelolaan produk bekas yang ingin dijual.
+        
+     2.	Penjualan produk bekas kepada pelanggan.
+        
+     3.	Pembayaran dan transaksi melalui aplikasi.
+        
+     4.	Manajemen inventaris barang bekas.
+        
+     5.	Pelacakan pesanan dan pengiriman produk kepada pelanggan.
+         
+     6.	Pengelolaan data pelanggan dan riwayat pembelian.
+         
+     7.	Pelaporan dan analisis penjualan.
+
+   - Lingkup operasi manajemen website GlamorousGems :
+
+     1.	Manajemen proyek, termasuk pengaturan tugas, jadwal, dan pengalokasian sumber daya.
+     	
+     2.	Manajemen tugas dan jadwal individu atau tim.
+        
+     3.	Manajemen sumber daya, seperti manusia, keuangan, dan peralatan.
+        
+     4.	Manajemen kontak dan informasi pelanggan, partner bisnis, dan rekan kerja.
+        
+     5.	Pelaporan dan analisis kinerja organisasi.
+         
+     6.	Manajemen keuangan dan penggajian.
+         
+     7.	Pelacakan inventaris dan pengelolaan persediaan.
+
+2.5 Kendala Desain dan Implementasi
+
+Beberapa hal yang membatasi pilihan yang tersedia untuk para pengembang dalam pengembangan perangkat lunak termasuk :
+
+   - Kebijakan perusahaan atau regulasi : Perusahaan dapat memiliki kebijakan atau aturan tertentu yang harus diikuti oleh pengembang dalam pengembangan perangkat lunak. Selain itu, adanya regulasi pemerintah dapat membatasi pilihan pengembang dalam pengembangan perangkat lunak.
+
+   - Keterbatasan perangkat keras : Persyaratan waktu dan memori pada perangkat keras dapat membatasi pilihan pengembang dalam pengembangan perangkat lunak. Misalnya, jika perangkat keras yang tersedia hanya memiliki kapasitas memori terbatas, pengembang harus mempertimbangkan ukuran dan kompleksitas program agar sesuai dengan kapasitas perangkat keras.
+
+   - Antarmuka ke aplikasi lain : Jika perangkat lunak harus berinteraksi dengan aplikasi lain, maka pengembang harus mempertimbangkan antarmuka aplikasi tersebut. Pengembang harus memastikan bahwa perangkat lunak dapat berfungsi dengan baik dengan aplikasi lain.
+
+   - Teknologi khusus, alat, dan database : Jika organisasi pelanggan menggunakan teknologi khusus, alat, atau database tertentu, pengembang harus mempertimbangkan teknologi tersebut agar perangkat lunak dapat berfungsi dengan baik.
+
+   - Operasi paralel : Jika perangkat lunak akan beroperasi secara paralel, pengembang harus mempertimbangkan teknik pemrograman paralel dan memastikan bahwa perangkat lunak dapat beroperasi dengan baik di lingkungan tersebut.
+
+   - Persyaratan Bahasa : Jika pengguna dari berbagai negara akan menggunakan perangkat lunak, pengembang harus mempertimbangkan persyaratan bahasa dan memastikan bahwa perangkat lunak dapat berfungsi dengan baik di berbagai bahasa.
+
+ - Pertimbangan keamanan : Pengembang harus mempertimbangkan masalah keamanan dalam pengembangan perangkat lunak. Perangkat lunak harus dapat menjaga kerahasiaan, integritas, dan ketersediaan data.
+
+   - Konvensi desain atau standar pemrograman : Jika organisasi pelanggan memiliki konvensi desain atau standar pemrograman tertentu, pengembang harus mengikuti standar tersebut agar perangkat lunak sesuai dengan kebutuhan organisasi pelanggan.   
+
+2.6 Dokumentasi Pengguna
+
+Dalam SRS ini, akan disampaikan beberapa komponen dokumentasi pengguna yang akan disertakan bersama perangkat lunak, yaitu :
+
+   - Panduan Pengguna	: dokumen ini akan memberikan petunjuk yang jelas tentang cara menggunakan perangkat lunak, mulai dari instalasi hingga penggunaan fitur-fitur utama.
+
+   - Bantuan Online	: dokumen ini akan disediakan dalam bentuk online dan akan memberikan panduan lengkap tentang cara menggunakan website, fitur-fiturnya, serta solusi untuk masalah yang mungkin timbul saat penggunaan.
+
+   - Tutorial		: dokumen ini akan memberikan panduan step-by-step tentang cara menggunakan fitur-fitur kunci dalam perangkat lunak.
+
 
 4. Penjelasan Source Code Html
 
