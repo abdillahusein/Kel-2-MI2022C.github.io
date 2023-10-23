@@ -517,6 +517,41 @@ Persyaratan Lainnya
 
 6.1 Lampiran A : Glosarium
 
+Berikut adalah daftar istilah dan akronim yang digunakan dalam SRS ini:
+
+   - Software : Serangkaian intruksi dan data yang diatur dalam bentuk 
+program komputer yang dapat dijalankan pada perangkat keras computer. 
+Software memberikan kerangka kerja bagi perangkat keras untuk menjalankan 
+tugas-tugas tertentu dan menyediakan fungsionalitas yang diperlukan oleh 
+penggunaan komputer.
+
+   - Website : Kumpulan halaman web tertaut yang dapat diakses melalui 
+Internet. Setiap halaman web biasanya berisi teks, gambar, audio, video, atau 
+elemen lain yang dirancang untuk memberikan informasi atau interaksi kepada 
+pengguna. . 
+
+   - Server : Merupakan sistem yang memiliki layanan khusus berupa 
+penyimpanan data server. Dimana server data tersebut akan menyimpan 
+berbagai jenis dokumen dan menyediakan informasi untuk penggunanya atau 
+pengunjung.
+
+   - DB : Database atau basis data merupakan kumpulan data yang 
+akan dikelola sedemikian rupa dengan berdasarkan ketentuan tertentu dimana 
+yang saling berhubungan sehingga mudah dalam pengelolaannya. Dengan 
+melalui pengolahan tersebut pengguna dapat memperoleh kemudahan dalam 
+mencari informasi, menyimpan informasi dan membuang informasi.
+
+   - CSS : bahasa Cascading Style Sheet dan biasanya digunakan untuk 
+mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. 
+CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
+
+   - Javascript : JavaScript adalah bahasa skrip yang digunakan untuk 
+membuat konten halaman web dinamis, berfungsi untuk membuat elemen 
+yang mampu meningkatkan interaksi pengunjung seperti menu drop-down, 
+animasi, dan warna background dinamis.
+
+   - HTML : bahasa markah standar untuk dokumen yang dirancang untuk 
+ditampilkan di peramban internet.
 
 6.2 Lampiran B : Model Analisis
 
