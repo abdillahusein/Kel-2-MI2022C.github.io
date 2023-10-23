@@ -79,20 +79,17 @@ Pendahuluan
 
 1.1 Latar Belakang
 
-Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri ritel. Salah satu bentuk website yang semakin populer adalah website GlamorousGems. Website GlamorousGems hadir sebagai solusi yang inovatif untuk mempermudah proses pengelolaan toko barang bekas. Dengan bantuan website ini, kami selaku pemilik website thrift shop dapat memperluas jangkauan pelanggan, mengelola inventaris barang dengan lebih baik, dan meningkatkan efisiensi operasional secara keseluruhan. Selain itu, website ini juga memberikan kemudahan bagi pelanggan dalam mencari produk, bertransaksi, Tidak hanya itu, website GlamorousGems juga menyediakan fitur manajemen inventaris yang komprehensif. Sehingga kami dapat dengan mudah melacak stok barang, memperbarui informasi produk, dan mengelola penambahan atau penghapusan barang dari inventaris.
+   Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri ritel. Salah satu bentuk website yang semakin populer adalah website GlamorousGems. Website GlamorousGems hadir sebagai solusi yang inovatif untuk mempermudah proses pengelolaan toko barang bekas. Dengan bantuan website ini, kami selaku pemilik website thrift shop dapat memperluas jangkauan pelanggan, mengelola inventaris barang dengan lebih baik, dan meningkatkan efisiensi operasional secara keseluruhan. Selain itu, website ini juga memberikan kemudahan bagi pelanggan dalam mencari produk, bertransaksi, Tidak hanya itu, website GlamorousGems juga menyediakan fitur manajemen inventaris yang komprehensif. Sehingga kami dapat dengan mudah melacak stok barang, memperbarui informasi produk, dan mengelola penambahan atau penghapusan barang dari inventaris.
 
-Kesimpulannya website GlamorousGems memberikan solusi modern untuk mengoptimalkan pengalaman belanja di website GlamorousGems. Dengan fitur-fitur yang inovatif dan efisien, website ini memudahkan pelanggan dalam mencari barang bekas berkualitas, serta membantu pemilik toko dalam mengelola inventaris, transaksi, dan operasional secara keseluruhan.
+   Kesimpulannya website GlamorousGems memberikan solusi modern untuk mengoptimalkan pengalaman belanja di website GlamorousGems. Dengan fitur-fitur yang inovatif dan efisien, website ini memudahkan pelanggan dalam mencari barang bekas berkualitas, serta membantu pemilik toko dalam mengelola inventaris, transaksi, dan operasional secara keseluruhan.
 
 1.2 Tujuan
 
-Platform website e-commerce yang menawarkan barang bekas berkualitas kepada audiens yang lebih luas, dengan
-harga yang terjangkau. Tujuan dari website ini untuk menawarkan barang bekas yang berkualitas kepada audiens 
-yang lebih luas. Target pasarnya yaitu individu yang mencari barang-barang vintage, unik, atau berharga dengan 
-harga terjangkau.
+   Platform website e-commerce yang menawarkan barang bekas berkualitas kepada audiens yang lebih luas, dengan harga yang terjangkau. Tujuan dari website ini untuk menawarkan barang bekas yang berkualitas kepada audiens yang lebih luas. Target pasarnya yaitu individu yang mencari barang-barang vintage, unik, atau berharga dengan harga terjangkau.
 
 1.3 Konvensi Dokumen
 
-Konvensi tipografi yang umum digunakan dalam SRS meliputi penggunaan huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk SRS.    
+   Konvensi tipografi yang umum digunakan dalam SRS meliputi penggunaan huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk SRS.    
 
 1.4 Audiens yang Dituju dan Saran Bacaan
 
@@ -110,7 +107,7 @@ Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin me
 
 1.5 Cakupan Produk
 
-Dokumen ini menjelaskan tentang perangkat lunak website GlamorousGems. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah toko barang bekas atau yang sering disebut toko "GlamorousGems". Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, pengaturan harga, dan pelaporan secara efektif. Website GlamorousGems diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik toko thrift shop. Dengan website ini, pemilik toko dapat mengelola inventaris dan melacak penjualan dengan lebih mudah dan akurat. Selain itu, webiste ini juga dapat membantu pemilik toko dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu toko GlamorousGems dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau.
+   Dokumen ini menjelaskan tentang perangkat lunak website GlamorousGems. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah toko barang bekas atau yang sering disebut toko "GlamorousGems". Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, pengaturan harga, dan pelaporan secara efektif. Website GlamorousGems diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik toko thrift shop. Dengan website ini, pemilik toko dapat mengelola inventaris dan melacak penjualan dengan lebih mudah dan akurat. Selain itu, webiste ini juga dapat membantu pemilik toko dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu toko GlamorousGems dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau.
 
 1.6 Referensi 
 
@@ -138,6 +135,28 @@ Dokumen ini menjelaskan tentang perangkat lunak website GlamorousGems. Tujuan da
    2.1 Perspektif Produk
 
    Produk yang dijelaskan dalam SRS ini adalah webiste GlamorousGems, yang merupakan produk mandiri baru. Website ini bertujuan untuk menyediakan platform bagi pengguna untuk menjual dan membeli barang-barang bekas secara online.
+
+   2.2 Fungsi Produk
+
+- Dirancang khusus untuk membantu pengelolaan dan operasional GlamorousGems secara online.
+  
+- membantu kami dalam melacak inventaris GlamorousGems yang tersedia. Ini mencakup melihat stok barang, memperbarui jumlah barang, dan mengatur kategori produk.
+  
+- Website GlamorousGems memungkinkan pengguna untuk mendaftarkan produk bekas yang ingin dijual. Pengguna dapat memasukkan informasi seperti nama produk, deskripsi, kondisi barang, harga, dan gambar produk.
+
+  2.3 Kelas Pengguna dan Karakteristik
+
+  Berdasarkan tujuan dan fungsi utama dari produk website GlamorousGems dan aplikasi, beberapa kelas pengguna yang diantisipasi akan menggunakan produk ini meliputi :
+
+   - Admin : Kelas pengguna ini akan memiliki hak akses penuh ke sistem dan bertanggung jawab untuk mengelola pengguna, produk, transaksi, dan laporan. Admin harus memiliki keahlian teknis yang tinggi dalam mengelola website, termasuk pengaturan dan konfigurasi server.
+  
+   - Penjual : Kelas pengguna ini dapat memposting barang dagangan mereka di website dan mengelola stok dan harga produk. Mereka dapat mengakses laporan penjualan untuk menganalisis kinerja toko mereka. Penjual harus memiliki keahlian teknis yang cukup untuk menggunakan website, tetapi tidak harus memiliki pengetahuan tentang pengaturan server.
+  
+   - Pembeli : Kelas pengguna ini dapat menjelajahi dan membeli produk yang ditawarkan oleh penjual. Mereka harus mendaftar ke website dan dapat melakukan transaksi melalui aplikasi. Pembeli tidak harus memiliki keahlian teknis tertentu untuk menggunakan webiste.
+
+   - Tamu: Kelas pengguna ini adalah pengunjung aplikasi yang belum mendaftar sebagai pengguna. Mereka dapat menjelajahi dan melihat produk yang ditawarkan oleh penjual, tetapi tidak dapat melakukan transaksi atau mengakses fitur lainnya di aplikasi.
+
+Kelas pengguna yang paling penting untuk dipenuhi adalah admin dan penjual, karena mereka bertanggung jawab untuk mengelola dan menjalankan website. Pembeli dan tamu juga penting, tetapi persyaratan mereka lebih sederhana dan lebih mudah dipenuhi.    
 
 4. Penjelasan Source Code Html
 
