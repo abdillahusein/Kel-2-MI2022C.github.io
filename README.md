@@ -326,17 +326,51 @@ PERSYARATAN NONFUNGSIONAL LAINNYA
 
 5.1  Persyaratan Kinerja
 
+Persyaratan keselamatan sangat penting untuk memastikan produk aman 
+digunakan oleh pengguna. Berikut adalah beberapa contoh persyaratan 
+keselamatan yang mungkin diperlukan:
+
+   - Produk harus memenuhi standar keselamatan yang relevan, seperti standar 
+keselamatan elektronik, keamanan produk, dan persyaratan lingkungan.
+
+   - Produk harus dirancang sedemikian rupa sehingga tidak ada risiko kebakaran 
+atau ledakan ketika digunakan dengan benar. Produk juga harus dilengkapi 
+dengan tindakan pengamanan seperti sensor panas dan alat pemadam api 
+otomatis.
+
+   - Produk harus menghindari potensi kecelakaan saat digunakan, seperti cedera 
+fisik atau trauma pada pengguna. Produk harus mempertimbangkan faktor 
+ergonomic, seperti tinggi dan lebar kursi, untuk memastikan kenyamanan dan 
+keselamatan pengguna.
+
+   - Produk harus memiliki label peringatan dan petunjuk penggunaan yang jelas 
+dan mudah dipahami oleh pengguna. Label harus mencakup informasi 
+tentang bahaya dan peringatan penting yang berkaitan dengan penggunaan 
+produk.
+
+   - Produk harus memiliki fitur keamanan yang membatasi akses pengguna yang 
+tidak sah. Ini dapat mencakup perlindungan password atau perangkat lunak 
+enkripsi yang terenkripsi untuk melindungi informasi pribadi dan data 
+penting.
+
+   - Produk harus memiliki fitur cadangan atau pemulihan darurat yang 
+memungkinkan pengguna untuk mengembalikan data dan informasi setelah 
+kehilangan atau kegagalan sistem.
+
+   - Produk harus dirancang untuk memenuhi persyaratan keselamatan yang 
+diperlukan oleh badan pengatur atau sertifikasi. Ini mungkin mencakup 
+persyaratan UL atau sertifikasi CE
+
+Dalam mengembangkan produk, sangat penting untuk mempertimbangkan 
+keamanan dan keselamatan pengguna sebagai prioritas utama. Tim pengembang 
+harus berkolaborasi dengan ahli keselamatan dan badan pengatur untuk 
+memastikan produk aman dan memenuhi standar keselamatan yang relevan.
 
 5.2  Persyaratan Keselamatan
 
-
 5.3 Persyaratan Keamanan
 
-
-
 5.4 Atribut Kualitas Perangkat Lunak
-
-
 
 5.5 Aturan Bisnis
 
