@@ -90,6 +90,28 @@ harga yang terjangkau. Tujuan dari website ini untuk menawarkan barang bekas yan
 yang lebih luas. Target pasarnya yaitu individu yang mencari barang-barang vintage, unik, atau berharga dengan 
 harga terjangkau.
 
+1.3 Konvensi Dokumen
+
+Konvensi tipografi yang umum digunakan dalam SRS meliputi penggunaan huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk SRS.    
+
+1.4 Audiens yang Dituju dan Saran Bacaan
+
+Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin memiliki peran yang berbeda dalam proyek pengembangan perangkat lunak, termasuk :
+
+1.	Pengembang : orang yang bertanggung jawab untuk merancang, mengembangkan, dan mengimplementasikan perangkat lunak. Mereka akan membutuhkan informasi detail tentang persyaratan fungsional dan nonfungsional, antarmuka, dan ketergantungan yang diperlukan oleh perangkat lunak.
+   
+2. Manajer Proyek : orang yang bertanggung jawab untuk merencanakan, mengarahkan, dan mengawasi pengembangan perangkat lunak. Mereka akan membutuhkan informasi tentang jadwal, sumber daya, tanggung jawab, risiko, dan kendala proyek.
+   
+3.	Pengguna : orang yang akan menggunakan perangkat lunak. Mereka akan membutuhkan informasi tentang fitur dan fungsi yang tersedia dalam perangkat lunak, serta persyaratan yang harus dipenuhi untuk menggunakannya.
+   
+4.	Penguji : orang yang bertanggung jawab untuk menguji perangkat lunak untuk memastikan bahwa perangkat lunak memenuhi persyaratan. Mereka akan membutuhkan informasi tentang persyaratan fungsional dan nonfungsional, dan bagaimana perangkat lunak harus beroperasi.
+   
+5.	Penulis Dokumentasi: orang yang bertanggung jawab untuk menulis dokumen-dokumen yang menjelaskan bagaimana cara menggunakan atau memelihara perangkat lunak. Mereka akan membutuhkan informasi tentang fitur dan fungsi perangkat lunak, serta bagaimana menggunakannya.
+
+1.5 Cakupan Produk
+
+Dokumen ini menjelaskan tentang perangkat lunak website GlamorousGems. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah toko barang bekas atau yang sering disebut toko "GlamorousGems". Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, pengaturan harga, dan pelaporan secara efektif. Website GlamorousGems diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik toko thrift shop. Dengan website ini, pemilik toko dapat mengelola inventaris dan melacak penjualan dengan lebih mudah dan akurat. Selain itu, webiste ini juga dapat membantu pemilik toko dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu toko GlamorousGems dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau.
+
 2. Lampiran
 
    A. Flowchart Website Glamourous Gems
