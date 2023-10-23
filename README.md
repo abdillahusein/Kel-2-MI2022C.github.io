@@ -368,6 +368,49 @@ memastikan produk aman dan memenuhi standar keselamatan yang relevan.
 
 5.2  Persyaratan Keselamatan
 
+Berikut adalah beberapa persyaratan keamanan dan privasi yang dapat terkait 
+dengan penggunaan produk:
+
+   - Persyaratan autentikasi pengguna: Produk harus menyediakan mekanisme 
+autentikasi pengguna yang aman dan dapat diandalkan untuk mengakses fitur 
+atau layanan yang sensitif. Mekanisme autentikasi harus memenuhi standar 
+keamanan dan privasi yang berlaku.
+
+   - Persyaratan otorisasi pengguna: Produk harus memiliki mekanisme otorisasi 
+yang tepat untuk mengontrol akses pengguna ke fitur atau layanan yang 
+berbeda dalam sistem. Akses pengguna harus diatur berdasarkan peran, 
+tanggung jawab, atau kebutuhan bisnis.
+
+   - Persyaratan enkripsi data: Produk harus dapat mengenkripsi data yang 
+sensitif pada saat penyimpanan atau pengiriman data melalui jaringan untuk 
+melindungi kerahasiaan dan integritas data.
+
+   - Persyaratan proteksi data: Produk harus dapat melindungi data sensitif dari 
+kehilangan, penggunaan yang tidak sah, atau akses tidak sah. Data sensitif 
+harus diidentifikasi dan dikelola secara khusus untuk meminimalkan risiko 
+pelanggaran keamanan data.
+
+   - Persyaratan pelaporan keamanan: Produk harus memiliki mekanisme 
+pelaporan yang tepat untuk melaporkan pelanggaran keamanan atau aktivitas 
+mencurigakan yang terkait dengan produk. Pelaporan harus dilakukan sesuai 
+dengan standar industri atau peraturan yang berlaku.
+
+   - Persyaratan pemantauan keamanan: Produk harus memiliki kemampuan 
+untuk memantau aktivitas pengguna dan sistem secara real-time untuk 
+mendeteksi dan merespons ancaman keamanan. Pemantauan harus meliputi 
+audit log, alarm keamanan, dan tindakan pencegahan atau mitigasi risiko.
+
+   - Persyaratan privasi data: Produk harus mematuhi standar privasi yang 
+berlaku dan memproteksi data pribadi pengguna dengan tepat. Data pribadi 
+harus diidentifikasi dan dikelola secara khusus untuk meminimalkan risiko 
+pelanggaran privasi data.
+
+   - Persyaratan sertifikasi keamanan atau privasi: Produk harus memenuhi 
+sertifikasi keamanan atau privasi yang berlaku untuk industri atau wilayah 
+tertentu, seperti PCI DSS, HIPAA, atau GDPR. Produk harus memenuhi 
+persyaratan sertifikasi untuk memastikan keamanan dan privasi yang tepat 
+bagi pengguna produk.
+
 5.3 Persyaratan Keamanan
 
 5.4 Atribut Kualitas Perangkat Lunak
