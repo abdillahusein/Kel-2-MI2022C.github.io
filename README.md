@@ -489,6 +489,28 @@ sebelum dirilis ke publik.
 
 5.5 Aturan Bisnis
 
+Prinsip operasi produk mungkin mencakup:
+
+   - Hak akses dan peran pengguna : Prinsip ini menetapkan hak akses dan peran 
+pengguna yang berbeda dalam sistem, seperti administrator, pengguna 
+terdaftar, atau pengunjung anonim. Hal ini dapat memengaruhi persyaratan 
+fungsional terkait dengan otorisasi, autentikasi, dan manajemen hak akses.
+
+   - Urutan operasi : Prinsip ini menentukan urutan operasi yang diperlukan 
+untuk menjalankan fungsi atau mengakses fitur tertentu. Hal ini dapat 
+memengaruhi persyaratan fungsional terkait dengan tata letak antarmuka 
+pengguna, navigasi, dan perubahan status sistem.
+
+   - Konteks penggunaan : Prinsip ini menentukan kondisi atau konteks 
+penggunaan yang memengaruhi cara produk dioperasikan, seperti 
+penggunaan pada perangkat seluler, di lingkungan dengan koneksi internet yang tidak stabil, atau di lingkungan dengan keadaan darurat. Hal ini dapat memengaruhi persyaratan fungsional terkait dengan kecepatan, keandalan, 
+dan tata letak antarmuka pengguna yang responsif.
+
+   - Aturan bisnis: Prinsip ini menentukan aturan bisnis dan kebijakan yang harus 
+diterapkan pada produk, seperti aturan privasi atau kebijakan pengembalian. 
+Hal ini dapat memengaruhi persyaratan fungsional terkait dengan manajemen 
+data, manajemen pesanan, atau manajemen transaksi.
+
 BAB 6
 
 Persyaratan Lainnya
