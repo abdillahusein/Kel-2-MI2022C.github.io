@@ -250,6 +250,53 @@ Antarmuka pengguna merupakan elemen penting dalam sebuah perangkat lunak karena 
 
 Beberapa komponen perangkat lunak yang memerlukan antarmuka pengguna adalah menu, tombol, dialog, dan tampilan data. Desain antarmuka pengguna yang lebih detail harus didokumentasikan dalam spesifikasi antarmuka pengguna yang terpisah. Spesifikasi tersebut harus mencakup deskripsi tentang semua elemen antarmuka pengguna, termasuk tata letak, tombol, menu, dan pintasan keyboard, serta bagaimana pengguna akan berinteraksi dengan mereka.
 
+3.2 Antarmuka Perangkat Keras
+
+   Karakteristik logis dan fisik dari antarmuka antara perangkat lunak dan perangkat keras sistem meliputi beberapa faktor. Secara logis, antarmuka harus didesain untuk dapat mendukung jenis perangkat keras tertentu yang digunakan dalam sistem. Selain itu, perangkat lunak harus mampu berinteraksi dengan perangkat keras, mengirim dan menerima data dari perangkat keras tersebut. Interaksi kontrol antara perangkat lunak dan perangkat keras harus didefinisikan secara jelas dan harus memperhitungkan protokol komunikasi yang digunakan oleh perangkat keras. Secara fisik, antarmuka perangkat lunak dan perangkat keras harus mempertimbangkan faktor-faktor seperti jenis konektor, pengaturan pin, dan kemampuan daya listrik. Komponen perangkat lunak yang memerlukan antarmuka perangkat keras mungkin termasuk driver perangkat keras atau layer middleware yang menghubungkan antara aplikasi dengan perangkat keras. Rincian desain antarmuka perangkat keras harus didokumentasikan dalam spesifikasi antarmuka perangkat keras yang terpisah.
+
+   3.3 Antarmuka Perangkat Lunak
+
+   Produk perangkat lunak yang akan dikembangkan mungkin akan tergantung pada beberapa komponen perangkat lunak khusus lainnya seperti database, sistem operasi, alat, perpustakaan, dan komponen terintegrasi komersial. Komponen perangkat lunak lainnya yang terkait dengan produk dapat mencakup :
+
+   - Database : Produk dapat bergantung pada database tertentu untuk penyimpanan dan pengambilan data. Versi dan spesifikasi database harus ditentukan dalam SRS. Pesan atau data yang masuk ke dalam sistem mungkin termasuk permintaan untuk mengambil data dari database atau untuk menyimpan data ke dalam database.
+   
+   - Sistem operasi : Produk dapat bergantung pada sistem operasi tertentu untuk menjalankan aplikasi. Versi dan spesifikasi sistem operasi harus ditentukan dalam SRS. Pesan atau data yang masuk ke dalam sistem mungkin termasuk instruksi dari sistem operasi atau notifikasi yang diterima dari sistem operasi.
+
+   - Komponen terintegrasi komersial : Produk dapat mengintegrasikan komponen perangkat lunak komersial lainnya. Versi dan spesifikasi komponen tersebut harus ditentukan dalam SRS. Pesan atau data yang masuk ke dalam sistem mungkin termasuk permintaan dari komponen terintegrasi atau notifikasi dari komponen terintegrasi yang digunakan.
+
+   Data atau pesan yang masuk ke dalam sistem dapat mencakup permintaan untuk menjalankan fungsi atau proses tertentu, permintaan untuk mengambil atau menyimpan data, atau notifikasi tentang peristiwa tertentu yang terjadi dalam sistem. Tujuan dari data atau pesan tersebut adalah untuk memungkinkan interaksi antara komponen perangkat lunak yang berbeda dan memfasilitasi jalannya website.
+
+   Layanan yang dibutuhkan mungkin mencakup layanan jaringan, layanan pengamanan, layanan pemantauan kinerja, dan layanan lainnya. Komunikasi antara komponen perangkat lunak dapat dilakukan melalui protokol antarmuka pemrograman website tertentu, seperti REST atau SOAP.
+
+   Data yang akan dibagikan di seluruh komponen perangkat lunak harus ditentukan dalam SRS. Mekanisme berbagi data harus diimplementasikan dengan cara yang sesuai dan dapat diandalkan, seperti penggunaan panggilan fungsi atau variabel global. Batasan implementasi harus dijelaskan secara terperinci dalam spesifikasi antarmuka pengguna yang terpisah.
+
+3.4 Antarmuka Komunikasi
+
+1)	Chat Langsung antara Penjual dan Pembeli :
+   
+-	Pengguna dapat mengirim pesan langsung ke penjual untuk bertanya tentang produk, bernegosiasi harga, atau mengatur detail transaksi.
+  
+-	Antarmuka chat menyediakan fitur pengiriman teks, gambar, dan lampiran lainnya untuk memfasilitasi komunikasi yang lebih baik.
+
+2)	Notifikasi Transaksi :
+   
+-	Pengguna akan menerima notifikasi langsung tentang status transaksi mereka, seperti konfirmasi pesanan, pembaruan pengiriman, atau penawaran khusus.
+  
+-	Notifikasi dapat dikirim melalui pesan teks, notifikasi push, atau email.
+
+3)	Ulasan dan Penilaian Produk :
+   
+-	Pengguna dapat memberikan ulasan dan penilaian terhadap produk yang telah mereka beli.
+  
+-	Antarmuka ini memungkinkan pengguna untuk menulis ulasan, memberikan peringkat, dan melihat ulasan pengguna lainnya.
+
+4)	Formulir Kontak Dukungan Pelanggan :
+   
+-	Pengguna dapat mengisi formulir kontak untuk mengajukan pertanyaan, melaporkan masalah, atau mendapatkan bantuan dari tim dukungan pelanggan.
+  
+-	Formulir ini biasanya berisi bidang untuk nama, alamat email, subjek, dan pesan.
+
+
 4. Penjelasan Source Code Html
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
