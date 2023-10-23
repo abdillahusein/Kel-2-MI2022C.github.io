@@ -296,6 +296,57 @@ Beberapa komponen perangkat lunak yang memerlukan antarmuka pengguna adalah menu
   
 -	Formulir ini biasanya berisi bidang untuk nama, alamat email, subjek, dan pesan.
 
+BAB 4
+
+FITUR SISTEM DAN KERANGKA DESAIN FITUR
+
+4.1 Halaman Login
+
+
+
+4.2 Halaman Utama
+
+
+
+4.3 Halaman Tentang Kami / About us
+
+
+
+4.4 Halaman Produk Kami
+
+
+
+BAB 5
+
+PERSYARATAN NONFUNGSIONAL LAINNYA
+
+5.1  Persyaratan Kinerja
+
+
+5.2  Persyaratan Keselamatan
+
+
+5.3 Persyaratan Keamanan
+
+
+
+5.4 Atribut Kualitas Perangkat Lunak
+
+
+
+5.5 Aturan Bisnis
+
+BAB 6
+
+Persyaratan Lainnya
+
+6.1 Lampiran A : Glosarium
+
+
+6.2 Lampiran B : Model Analisis
+
+
+6.3 Lampiran C : Penjelasan Source Code
 
 4. Penjelasan Source Code Html
 
