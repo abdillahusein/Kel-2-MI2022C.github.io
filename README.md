@@ -128,7 +128,7 @@ Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin me
 8)	https://journal.untar.ac.id/index.php/JSA/article/view/24528
 
 
-2. BAB 2
+BAB 2
 
    Deskripsi Keseluruhan
 
@@ -222,6 +222,33 @@ Dalam SRS ini, akan disampaikan beberapa komponen dokumentasi pengguna yang akan
 
    - Tutorial		: dokumen ini akan memberikan panduan step-by-step tentang cara menggunakan fitur-fitur kunci dalam perangkat lunak.
 
+2.7 Asumsi dan Ketergantungan
+
+- Komponen pihak ketiga atau komersial	: Penggunaan komponen pihak ketiga atau komersial dalam pengembangan perangkat lunak dapat mempengaruhi persyaratan yang tercantum dalam SRS, terutama jika ada pembatasan lisensi atau fitur-fitur yang tersedia dalam komponen tersebut.
+  
+- Lingkungan pengembangan atau operasi	: Lingkungan pengembangan atau operasi yang berbeda dapat mempengaruhi persyaratan yang tercantum dalam SRS, seperti persyaratan kinerja dan keamanan. Misalnya, jika lingkungan operasi yang diinginkan adalah lingkungan yang sangat terdistribusi atau berada di lingkungan cloud, maka persyaratan kinerja dan keamanan harus diperhitungkan dengan cermat.
+  
+- Kendala : Kendala seperti anggaran dan waktu dapat mempengaruhi persyaratan yang tercantum dalam SRS. Jika anggaran atau waktu terbatas, maka beberapa persyaratan mungkin harus dikurangi atau dihilangkan.
+  
+- Faktor eksternal : Faktor eksternal seperti komponen perangkat lunak yang digunakan kembali dari proyek lain dapat mempengaruhi persyaratan dalam SRS. Jika komponen tersebut tidak tersedia atau tidak sesuai dengan kebutuhan proyek saat ini, maka persyaratan mungkin harus diubah.
+
+BAB 3 
+
+Persyaratan Antarmuka External
+
+3.1 Antarmuka Pengguna
+
+Antarmuka pengguna merupakan elemen penting dalam sebuah perangkat lunak karena merupakan tempat interaksi antara pengguna dan sistem. Beberapa karakteristik logis dari antarmuka pengguna yang perlu diperhatikan dalam SRS adalah sebagai berikut :
+
+   - Tampilan	: antarmuka pengguna harus memiliki tampilan yang mudah dipahami dan menarik. Tampilan tersebut dapat berupa gambar layar sampel, yang menunjukkan bagaimana tampilan antarmuka pengguna akan terlihat.
+
+   - GUI	: antarmuka pengguna harus mengikuti standar GUI (Graphical User Interface) atau panduan gaya keluarga produk yang telah ditentukan. Hal ini penting agar antarmuka pengguna mudah dipahami oleh pengguna.
+
+   - Tata letak	: tata letak antarmuka pengguna harus dirancang sedemikian rupa sehingga mudah dipahami dan digunakan oleh pengguna. Batasan tata letak layar, tombol dan fungsi standar, serta pintasan keyboard yang akan muncul di setiap layar juga perlu ditentukan.
+
+   - Pesan kesalahan : standar tampilan pesan kesalahan yang jelas dan mudah dimengerti oleh pengguna juga perlu ditentukan dalam SRS.
+
+Beberapa komponen perangkat lunak yang memerlukan antarmuka pengguna adalah menu, tombol, dialog, dan tampilan data. Desain antarmuka pengguna yang lebih detail harus didokumentasikan dalam spesifikasi antarmuka pengguna yang terpisah. Spesifikasi tersebut harus mencakup deskripsi tentang semua elemen antarmuka pengguna, termasuk tata letak, tombol, menu, dan pintasan keyboard, serta bagaimana pengguna akan berinteraksi dengan mereka.
 
 4. Penjelasan Source Code Html
 
