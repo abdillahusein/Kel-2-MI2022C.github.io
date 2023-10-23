@@ -1,5 +1,5 @@
 # Kel-2-MI2022C.github.io
-LAPORAN TUGAS PEMROGRAMAN WEB SRS GlamourousGem
+LAPORAN TUGAS PEMROGRAMAN WEB SRS GlamourousGems
 
 Disusun oleh:
 1. Adinda Nasywa Salsabila (22091397082)   2022C
@@ -14,7 +14,49 @@ Universitas Negeri Surabaya
 
 2023
 
-1. Tujuan
+
+Daftar Isi 
+
+BAB I	
+PENDAHULUAN	
+1.1 Latar Belakang	
+1.2 Tujuan	
+1.3 Konvesi Dokumen	
+1.4 Audiens yang Dituju dan Saran Bacaan	
+1.5 Cakupan Produk	
+1.6 Referensi	
+BAB II	
+DESKRIPSI KESELURUHAN	
+BAB III	
+PERSYARATAN ANTARMUKA EKSTERNAL	
+BAB IV	
+FITUR SISTEM DAN KERANGKA DESAIN FITUR	
+BAB V	
+PERSYARATAN NONFUNGSIONAL LAINNYA	
+5.1 Persyaratan Kinerja	
+5.2 Persyaratan Keselamatan	
+5.3 Persyaratan Keamanan	
+5.4 Atribut Kualitas Perangkat Lunak	
+5.5 Aturan Bisnis	
+BAB VI	
+PERSYARATAN LAINNYA	
+6.1 Lampiran A: Glosarium	
+6.2 Lampiran B: Model Analisis	
+6.3 Lampiran C :  Penjelasan Source Code	
+1.  Penjelasan Source Code HTML	
+2. Penjelasan Source Code Javascript	
+3. Penjelasan Source Code CSS	
+
+BAB 1
+
+Pendahuluan
+
+1.1 Latar Belakang
+
+Dalam era digital yang semakin maju ini, website telah menjadi bagian tidak terpisahkan dalam kehidupan sehari-hari. Website-website tersebut tidak hanya memberikan kenyamanan, tetapi juga membuka peluang baru dalam berbagai sektor, termasuk industri ritel. Salah satu bentuk website yang semakin populer adalah website GlamorousGems. Website GlamorousGems hadir sebagai solusi yang inovatif untuk mempermudah proses pengelolaan toko barang bekas. Dengan bantuan website ini, kami selaku pemilik website thrift shop dapat memperluas jangkauan pelanggan, mengelola inventaris barang dengan lebih baik, dan meningkatkan efisiensi operasional secara keseluruhan. Selain itu, website ini juga memberikan kemudahan bagi pelanggan dalam mencari produk, bertransaksi, Tidak hanya itu, website GlamorousGems juga menyediakan fitur manajemen inventaris yang komprehensif. Sehingga kami dapat dengan mudah melacak stok barang, memperbarui informasi produk, dan mengelola penambahan atau penghapusan barang dari inventaris.
+Kesimpulannya website GlamorousGems memberikan solusi modern untuk mengoptimalkan pengalaman belanja di website GlamorousGems. Dengan fitur-fitur yang inovatif dan efisien, website ini memudahkan pelanggan dalam mencari barang bekas berkualitas, serta membantu pemilik toko dalam mengelola inventaris, transaksi, dan operasional secara keseluruhan.
+
+1.2 Tujuan
 
 Platform website e-commerce yang menawarkan barang bekas berkualitas kepada audiens yang lebih luas, dengan
 harga yang terjangkau. Tujuan dari website ini untuk menawarkan barang bekas yang berkualitas kepada audiens 
