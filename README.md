@@ -458,6 +458,35 @@ bagi pengguna produk.
 
 5.4 Atribut Kualitas Perangkat Lunak
 
+   - Keandalan : Produk harus dapat diandalkan dan bekerja secara konsisten 
+tanpa kesalahan atau gangguan yang signifikan.
+
+   - Penggunaan Kembali : Produk harus dirancang agar dapat digunakan 
+kembali dalam berbagai lingkungan atau aplikasi, dengan memaksimalkan 
+penggunaan kembali kode dan fungsi.
+
+   - Ketersediaan : Produk harus tersedia secara konsisten dan dapat diakses oleh 
+pengguna kapan saja, di mana saja.
+
+   - Kegunaan : Produk harus mudah digunakan dan intuitif bagi pengguna, 
+dengan navigasi yang jelas dan fitur-fitur yang mudah dipahami.
+
+   - Interoperabilitas : Produk harus kompatibel dengan perangkat lunak dan 
+perangkat keras yang berbeda dan dapat berintegrasi dengan mudah dengan 
+sistem yang ada.
+
+   - Pemeliharaan : Produk harus mudah dikelola dan dipelihara dengan biaya 
+yang wajar dan waktu yang terbatas.
+
+   - Fleksibilitas : Produk harus dapat diadaptasi dan disesuaikan dengan 
+kebutuhan pengguna dan perusahaan dengan cepat dan mudah.
+
+   - Keamanan : Produk harus dirancang dengan standar keamanan yang tinggi 
+untuk melindungi data dan informasi sensitif dari serangan.
+
+   - Pengujian : Produk harus mengikuti proses pengujian yang ketat dan cermat 
+sebelum dirilis ke publik.
+
 5.5 Aturan Bisnis
 
 BAB 6
