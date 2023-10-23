@@ -112,18 +112,34 @@ Saran membaca dokumen ini ditujukan untuk beberapa jenis pembaca yang mungkin me
 
 Dokumen ini menjelaskan tentang perangkat lunak website GlamorousGems. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah toko barang bekas atau yang sering disebut toko "GlamorousGems". Website ini dirancang untuk memungkinkan pengguna untuk melakukan manajemen inventaris, pelacakan penjualan, pengaturan harga, dan pelaporan secara efektif. Website GlamorousGems diharapkan dapat memberikan manfaat bagi pengguna, terutama bagi pemilik toko thrift shop. Dengan website ini, pemilik toko dapat mengelola inventaris dan melacak penjualan dengan lebih mudah dan akurat. Selain itu, webiste ini juga dapat membantu pemilik toko dalam mengambil keputusan bisnis yang lebih baik berdasarkan data dan informasi yang akurat dan terkini. Perangkat lunak ini dirancang untuk mendukung tujuan perusahaan atau strategi bisnis dalam meningkatkan efisiensi operasional dan pengambilan keputusan yang lebih baik berdasarkan data yang akurat dan terkini. Website ini juga dapat membantu toko GlamorousGems dalam meningkatkan pelayanan dan kepuasan pelanggan dengan menyediakan inventaris yang terorganisir dan harga yang terjangkau.
 
-2. Lampiran
+1.6 Referensi 
 
-   A. Flowchart Website Glamourous Gems
+1)	https://docs.flutter.dev/
+   
+2)	https://dailysocial.id/post/rajaprelo-marketplace-jual-beli-barang-bekas/
+   
+3)	https://www.kompasiana.com/irfanfauzan/5f82d3a6d541df4a30452bc4/toko-kopi-aplikasi-jual-beli-barang-bekas-di-indonesia
+   
+4)	https://www.mamikos.com/blog/2019/12/09/mamikos-aplikasi-thrift-shop-khusus-untuk-barang-anak/
+   
+5)	https://karya.brin.go.id/id/eprint/12630/1/Jurnal_Fanny_IlmuBersama_2022.pdf
+    
+6)	 http://www.sisfotenika.stmikpontianak.ac.id/index.php/enter/article/view/856
+     
+7)	https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/10246
+    
+8)	https://journal.untar.ac.id/index.php/JSA/article/view/24528
 
-   ![Flowchart Diagram](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/83c1631c-5dfd-4ea2-9057-f348ac19f19e)
 
+2. BAB 2
 
-   B. Use Case Glamourous Gems
+   Deskripsi Keseluruhan
 
-   ![Use case (1)](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/50589000-ab40-464e-be29-12460ad434be)
+   2.1 Perspektif Produk
 
-3. Penjelasan Source Code Html
+   Produk yang dijelaskan dalam SRS ini adalah webiste GlamorousGems, yang merupakan produk mandiri baru. Website ini bertujuan untuk menyediakan platform bagi pengguna untuk menjual dan membeli barang-barang bekas secara online.
+
+4. Penjelasan Source Code Html
 
    ![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/c0bb84dd-ab3a-4ad4-8c74-5bdb358c0616)
 
