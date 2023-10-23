@@ -300,21 +300,21 @@ BAB 4
 
 FITUR SISTEM DAN KERANGKA DESAIN FITUR
 
+Menjelaskan mengenai proses yang akan dilakukan oleh sistem, Sistem dalam website 
+GlamorousGems ini mempermudah penjual dan pembeli dalam bentransaksi jual-beli 
+thrift shop.
+
 4.1 Halaman Login
 
-
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/79bf13b1-7df3-41aa-a95d-ded62d7c15e1)
 
 4.2 Halaman Utama
 
-
+![image](https://github.com/abdillahusein/Kel-Pemweb2-MI2022C.github.io/assets/124490604/55f463a3-f8a6-417e-89e1-c751f95d4e1c)
 
 4.3 Halaman Tentang Kami / About us
 
-
-
 4.4 Halaman Produk Kami
-
-
 
 BAB 5
 
