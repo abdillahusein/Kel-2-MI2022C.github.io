@@ -162,35 +162,35 @@ Kelas pengguna yang paling penting untuk dipenuhi adalah admin dan penjual, kare
 
    - Lingkup operasi webiste GlamorousGems :
 
-     1.	Pendaftaran dan pengelolaan produk bekas yang ingin dijual.
+     1.Pendaftaran dan pengelolaan produk bekas yang ingin dijual.
         
-     2.	Penjualan produk bekas kepada pelanggan.
+     2.Penjualan produk bekas kepada pelanggan.
         
-     3.	Pembayaran dan transaksi melalui aplikasi.
+     3.Pembayaran dan transaksi melalui aplikasi.
         
-     4.	Manajemen inventaris barang bekas.
+     4.Manajemen inventaris barang bekas.
         
-     5.	Pelacakan pesanan dan pengiriman produk kepada pelanggan.
+     5.Pelacakan pesanan dan pengiriman produk kepada pelanggan.
          
-     6.	Pengelolaan data pelanggan dan riwayat pembelian.
+     6.Pengelolaan data pelanggan dan riwayat pembelian.
          
-     7.	Pelaporan dan analisis penjualan.
+     7.Pelaporan dan analisis penjualan.
 
    - Lingkup operasi manajemen website GlamorousGems :
 
-     1.	Manajemen proyek, termasuk pengaturan tugas, jadwal, dan pengalokasian sumber daya.
+     1.Manajemen proyek, termasuk pengaturan tugas, jadwal, dan pengalokasian sumber daya.
      	
-     2.	Manajemen tugas dan jadwal individu atau tim.
+     2.Manajemen tugas dan jadwal individu atau tim.
         
-     3.	Manajemen sumber daya, seperti manusia, keuangan, dan peralatan.
+     3.Manajemen sumber daya, seperti manusia, keuangan, dan peralatan.
         
-     4.	Manajemen kontak dan informasi pelanggan, partner bisnis, dan rekan kerja.
+     4.Manajemen kontak dan informasi pelanggan, partner bisnis, dan rekan kerja.
         
-     5.	Pelaporan dan analisis kinerja organisasi.
+     5.Pelaporan dan analisis kinerja organisasi.
          
-     6.	Manajemen keuangan dan penggajian.
+     6.Manajemen keuangan dan penggajian.
          
-     7.	Pelacakan inventaris dan pengelolaan persediaan.
+     7.Pelacakan inventaris dan pengelolaan persediaan.
 
 2.5 Kendala Desain dan Implementasi
 
@@ -210,7 +210,7 @@ Beberapa hal yang membatasi pilihan yang tersedia untuk para pengembang dalam pe
 
  - Pertimbangan keamanan : Pengembang harus mempertimbangkan masalah keamanan dalam pengembangan perangkat lunak. Perangkat lunak harus dapat menjaga kerahasiaan, integritas, dan ketersediaan data.
 
-   - Konvensi desain atau standar pemrograman : Jika organisasi pelanggan memiliki konvensi desain atau standar pemrograman tertentu, pengembang harus mengikuti standar tersebut agar perangkat lunak sesuai dengan kebutuhan organisasi pelanggan.   
+- Konvensi desain atau standar pemrograman : Jika organisasi pelanggan memiliki konvensi desain atau standar pemrograman tertentu, pengembang harus mengikuti standar tersebut agar perangkat lunak sesuai dengan kebutuhan organisasi pelanggan.   
 
 2.6 Dokumentasi Pengguna
 
